@@ -1,4 +1,4 @@
-# Projeto de Banco de Dados - DIO Randstad Bootcamp
+# Projeto de Banco de Dados - Randstad Bootcamp
 
 ## 📌 Descrição
 Este projeto representa o modelo lógico de banco de dados para um sistema de e-commerce, contemplando clientes PF/PJ exclusivos, entregas com rastreio e múltiplas formas de pagamento. O modelo segue os princípios do modelo EER e foi refinado para refletir regras de negócio reais.
