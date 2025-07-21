@@ -1,9 +1,9 @@
 # Projeto de Banco de Dados - Randstad Bootcamp
 
-## 📌 Descrição
+## Descrição
 Este projeto representa o modelo lógico de banco de dados para um sistema de e-commerce, contemplando clientes PF/PJ exclusivos, entregas com rastreio e múltiplas formas de pagamento. O modelo segue os princípios do modelo EER e foi refinado para refletir regras de negócio reais.
 
-## 🔧 Modelagem Lógica
+## Modelagem Lógica
 
 - Cliente PF/PJ com herança exclusiva
 - Produtos associados a fornecedores
@@ -11,7 +11,7 @@ Este projeto representa o modelo lógico de banco de dados para um sistema de e-
 - Entrega com status e rastreio
 - Pagamento com múltiplas formas
 
-## 🧪 Consultas SQL
+## Consultas SQL
 
 - Quantidade de pedidos por cliente
 - Verificação de vendedor que também é fornecedor
